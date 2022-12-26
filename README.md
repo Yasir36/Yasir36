@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Yasir
 - 👀 I’m interested in Enterprise Web Development + Game Development
-- 🌱 I’m currently learning enterprise web app development using spring framework
+- 🌱 I’m currently learning Microservices using Spring Boot
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
